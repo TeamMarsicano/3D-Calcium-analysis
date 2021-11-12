@@ -1,8 +1,9 @@
 # 3D-Calcium-analysis
 Authors: Roman Serrat/Sandrine Pouvreau
+
 ImageJ macro for 3D (x/y/t) detection and analysis of calcium events
 
-This macro is based on 3D object counter and 3D viewer pluggins. For more info about these pluggins see:
+This macro is based on the pluggins 3D object counter and 3D viewer. For more info about these pluggins see:
 
 S. Bolte & F. P. Cordelières, A guided tour into subcellular colocalization analysis in light microscopy, Journal of Microscopy, Volume 224, Issue 3: 213-232
 
