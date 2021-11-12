@@ -1,5 +1,5 @@
 # 3D-Calcium-analysis
-Auteur: Roman Serrat/Sandrine Pouvreau
+Authors: Roman Serrat/Sandrine Pouvreau
 ImageJ macro for 3D (x/y/t) detection and analysis of calcium events
 
 This macro is based on 3D object counter and 3D viewer pluggins. For more info about these pluggins see:
